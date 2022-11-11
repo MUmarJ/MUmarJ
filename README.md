@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Umar, also known as Muhammad Umar Jahangir! @MUmarJ
-- 👀 I’m interested in Computer Vision, Natural Language Processing, Full Stack Development and Data Structures 
-- 🌱 I’m currently learning Transfer Learning with Synthetic Data and Data Augmentation
-- 📫 You can reach me at https://www.linkedin.com/in/mumarj/ or mumarj@gmail.com
+- 👀 I’m interested in Full Stack Development, Computer Vision and Natural Language Processing
+- 🌱 I’m currently learning Big Data technologies and enhancing my C# skillset
+- 📫 You can reach me at https://www.linkedin.com/in/mumarj/ or umarjh96@gmail.com
 
 <!---
 MUmarJ/MUmarJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
