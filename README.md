@@ -23,4 +23,4 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mumarj&theme=aura&layout=compact&hide=jupyter%20notebook,CSS)
+![Top Langs](https://github-readme-stats-sigma-five..vercel.app/api/top-langs/?username=mumarj&theme=aura&layout=compact&hide=jupyter%20notebook,CSS)
