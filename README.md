@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Umar, also known as Umar Jahangir or Muhammad Umar Jahangir! @MUmarJ
+- 👋 Hi, I’m Umar Jahangir @MUmarJ
 - 👀 I’m interested in Full Stack Development, Generative AI, Computer Vision and Distributed Systems
 - 📫 You can reach me at https://www.linkedin.com/in/mumarj/ or umarjh96@gmail.com
 
