@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Muhammad Umar, also known as Umar Jahangir or Muhammad Umar Jahangir! @MUmarJ
-- 👀 I’m interested in Full Stack Development, Computer Vision and Natural Language Processing, especially LLMs
-- 🌱 I’m currently learning to embed custom data with GPT models
+- 👀 I’m interested in Full Stack Development, Generative AI, Computer Vision and Distributed Systems
 - 📫 You can reach me at https://www.linkedin.com/in/mumarj/ or umarjh96@gmail.com
 
 <!---
@@ -8,11 +7,8 @@ MUmarJ/MUmarJ is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="left"> <a href="https://twitter.com/Cha0s96" target="blank"><img src="https://img.shields.io/twitter/follow/Cha0s96?logo=twitter&style=for-the-badge" alt="MUmarJ" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Cha0s96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Cha0s96 Twitter Link" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mumarj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MUmarJ LinkedIn" height="30" width="40" /></a>
 </p>
 
