@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Umar Jahangir @MUmarJ
+- 👋 Hi, I’m Umar Jahangir
+- I'm a Software Engineer, Technical Delivery Lead, Data Scientist, Web Developer with 4 years of experience concentrated in the Healthcare and Supply Chain industry
 - 👀 I’m interested in Full Stack Development, Generative AI, Computer Vision and Distributed Systems
 - 📫 You can reach me at https://www.linkedin.com/in/mumarj/ or umarjh96@gmail.com
 
